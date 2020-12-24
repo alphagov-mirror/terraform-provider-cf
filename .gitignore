@@ -31,6 +31,7 @@ dist/
 /cloudfoundry/cfapi
 *.after
 /cf-hcl-migration/cf-hcl-migration
+.gopath/
 
 website/vendor
 /terraform-provider-cloudfoundry
